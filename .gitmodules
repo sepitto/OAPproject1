@@ -1,0 +1,9 @@
+[submodule "aboutOleg"]
+	path = aboutOleg
+	url = https://github.com/StudLabs/OAP_tell_about
+[submodule "aboutArina"]
+	path = aboutArina
+	url = https://github.com/25timezone/OAP
+[submodule "aboutPancho"]
+	path = aboutPancho
+	url = https://github.com/mgkk6/OAP_ZADACHI
